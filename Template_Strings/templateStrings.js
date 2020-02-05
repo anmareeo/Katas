@@ -1,6 +1,6 @@
 // 1: template strings - basics
 // To do: make all tests pass, leave the asserts unchanged!
-// Follow the hints of the failure messages!
+
 
 describe('A template string, is wrapped in ` (backticks) instead of \' or "', function() {
     describe('by default, behaves like a normal string', function() {
