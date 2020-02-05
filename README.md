@@ -1,1 +1,2 @@
 "# js-katas" 
+"# JS-Katas" 
